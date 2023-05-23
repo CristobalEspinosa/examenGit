@@ -11,5 +11,6 @@ package com.mycompany.ejericiosfiles;
 public class Ejemplo1 {
     public static void main(String[] args) {
         System.out.println("Hola Mundo.");
+        System.out.println("Holamundo2");
     }
 }
